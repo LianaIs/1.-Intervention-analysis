@@ -11,4 +11,4 @@ series. Interventions can be natural or man-made.
 Here I'll show only the core part, meaning that I'll not waste your attention on the details of 
 how to pick a submodel for SARIMA (choosing p,d,q and P,D,Q), or how to test the results.
 
-I'll also provide the used data file (monthly volume of RA exports in 2017-20 period, source: Armstat).
+I'll also provide the used data file (Monthly volume of RA exports in 2017-20 period. Source: Armstat).
